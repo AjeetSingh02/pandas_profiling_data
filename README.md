@@ -10,3 +10,5 @@ These scripts will only give these information in a dictionary:
             - correlations: correlation matrices.
 
 You can always add additional information as per your requirements.
+
+Here is the official Pandas_Profiling page: https://github.com/pandas-profiling/pandas-profiling
